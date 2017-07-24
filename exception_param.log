@@ -1,0 +1,47 @@
+INFO:2016-09-14 06:08:14,545:attributes that were not extracted: {'name': 'Bitmask'} under PILOT_THR_BHV
+INFO:2016-09-14 06:08:14,546:attributes that were not extracted: {'name': 'Bitmask'} under GCS_PID_MASK
+INFO:2016-09-14 06:08:14,549:attributes that were not extracted: {'name': 'Bitmask'} under LOG_BITMASK
+INFO:2016-09-14 06:08:14,553:attributes that were not extracted: {'name': 'Bitmask'} under ARMING_CHECK
+DEBUG:2016-09-14 06:08:14,553:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -3
+DEBUG:2016-09-14 06:08:14,554:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -5
+DEBUG:2016-09-14 06:08:14,554:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -9
+DEBUG:2016-09-14 06:08:14,554:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -17
+DEBUG:2016-09-14 06:08:14,554:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -33
+DEBUG:2016-09-14 06:08:14,554:unexpected pattern detected at ARMING_CHECK: handle according to range or value routine  -65
+INFO:2016-09-14 06:08:14,555:attributes that were not extracted: {'name': 'Bitmask'} under AUTOTUNE_AXES
+DEBUG:2016-09-14 06:08:14,568:unexpected pattern detected at EPM_REGRAB: handle according to range or value routine ['0 255']
+INFO:2016-09-14 06:08:14,577:attributes that were not extracted: {'name': 'RebootRequired'} under MNT_TYPE
+INFO:2016-09-14 06:08:14,580:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_PWM_COUNT
+INFO:2016-09-14 06:08:14,580:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_SER1_RTSCTS
+INFO:2016-09-14 06:08:14,580:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_SER2_RTSCTS
+INFO:2016-09-14 06:08:14,580:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_SAFETYENABLE
+INFO:2016-09-14 06:08:14,580:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_SBUS_OUT
+INFO:2016-09-14 06:08:14,581:attributes that were not extracted: {'name': 'Bitmask'} under BRD_SAFETY_MASK
+INFO:2016-09-14 06:08:14,581:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_SAFETY_MASK
+INFO:2016-09-14 06:08:14,581:attributes that were not extracted: {'name': 'RebootRequired'} under BRD_TYPE
+INFO:2016-09-14 06:08:14,581:attributes that were not extracted: {'name': 'Volatile'} under GND_ABS_PRESS
+INFO:2016-09-14 06:08:14,581:attributes that were not extracted: {'name': 'Volatile'} under GND_TEMP
+INFO:2016-09-14 06:08:14,582:attributes that were not extracted: {'name': 'RebootRequired'} under GPS_TYPE
+INFO:2016-09-14 06:08:14,582:attributes that were not extracted: {'name': 'RebootRequired'} under GPS_TYPE2
+INFO:2016-09-14 06:08:14,582:attributes that were not extracted: {'name': 'RebootRequired'} under GPS_MIN_DGPS
+INFO:2016-09-14 06:08:14,582:attributes that were not extracted: {'name': 'RebootRequired'} under GPS_RAW_DATA
+INFO:2016-09-14 06:08:14,582:attributes that were not extracted: {'name': 'Bitmask'} under GPS_GNSS_MODE
+INFO:2016-09-14 06:08:14,583:attributes that were not extracted: {'name': 'Bitmask'} under GPS_GNSS_MODE2
+INFO:2016-09-14 06:08:14,583:attributes that were not extracted: {'name': 'RebootRequired'} under SCHED_LOOP_RATE
+INFO:2016-09-14 06:08:14,583:attributes that were not extracted: {'name': 'Bitmask'} under FENCE_TYPE
+INFO:2016-09-14 06:08:14,585:attributes that were not extracted: {'name': 'RebootRequired'} under RCMAP_ROLL
+INFO:2016-09-14 06:08:14,585:attributes that were not extracted: {'name': 'RebootRequired'} under RCMAP_PITCH
+INFO:2016-09-14 06:08:14,585:attributes that were not extracted: {'name': 'RebootRequired'} under RCMAP_THROTTLE
+INFO:2016-09-14 06:08:14,585:attributes that were not extracted: {'name': 'RebootRequired'} under RCMAP_YAW
+INFO:2016-09-14 06:08:14,586:attributes that were not extracted: {'name': 'Bitmask'} under EKF_GPS_CHECK
+INFO:2016-09-14 06:08:14,587:attributes that were not extracted: {'name': 'Bitmask'} under EK2_GPS_CHECK
+INFO:2016-09-14 06:08:14,610:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT_X...
+INFO:2016-09-14 06:08:14,611:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT_Y...
+INFO:2016-09-14 06:08:14,611:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT_Z...
+INFO:2016-09-14 06:08:14,611:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT2_X...
+INFO:2016-09-14 06:08:14,612:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT2_Y...
+INFO:2016-09-14 06:08:14,612:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT2_Z...
+INFO:2016-09-14 06:08:14,612:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT3_X...
+INFO:2016-09-14 06:08:14,613:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT3_Y...
+INFO:2016-09-14 06:08:14,613:Parameter units that will get IDENTICAL for being None.... str Offset per Amp or at Full Throttle under param COMPASS_MOT3_Z...
+DEBUG:2016-09-14 06:08:14,624:Failed to recognize unit under param RSSI_CHANNEL....try to handle.. given None
